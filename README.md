@@ -22,7 +22,11 @@
 ---
 - **Tsunami** - Fundador
   * Becado: 1994-11-25*
-  * Ahijados: No
+  * Ahijados: Escopeta
+  ---
+    - **Escopeta**
+  * Becado: ???
+
 ---
 
 - **Lo Mismo** - Fundador
@@ -37,7 +41,7 @@
 ---
 
 
-- **Nazareno**  (Pink Floyd = Pinfl) - Fundador
+- **Nazareno**  (Pink Floyd = Pinfly) - Fundador
   * Becado: 1994-11-18
   * Ahijados: FidoX, Casper, Obelix, Playback
   ---
@@ -154,10 +158,6 @@
               -  **Fitipollas** (Fiti)
                   * Becado: 2011-09-17
                   * Ahijados: (Maldición Activa)
----
-
-- **Escopeta**
-  * Becado: null
 
 ---
 - **Santos**
@@ -171,10 +171,11 @@
           ---
       - **Petete**
           * Becado: ???
+          * Ahijados: No
 
 ---
 - **Mapache**
-  * Becado: 
+  * Becado: ???
   * Tuna Madre: Tuna de Derecho de La Universidad de La Laguna
 ---
 - **Camilo**
@@ -187,7 +188,7 @@
 ---
 - **Muñones**
   * Becado: 2003-05-09
-  * Tuna Madre: ??
+  * Tuna Madre: Tuna de Agricolas de La Universidad de La Laguna
 ---
 - **Elmer**
   * Becado: ???
