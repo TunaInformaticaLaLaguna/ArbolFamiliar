@@ -1,172 +1,199 @@
-Informática:
+# Becas de Informática:
 
-  - mote: Durex
-    fundador: true
-    becado: 1994-11-18
-    ahijados:
+- **Durex** - Fundador
+  * Becado: 1994-11-18
+  * Ahijados: No
+---
+- **Fosforito** - Fundador
+  * Becado: 1994-11-18
+  * Ahijados: No
+---
+- **Inyectable** - Fundador
+  * Becado: 1994-11-18
+  * Ahijados: No
+---
+- **Libinidoso** - Fundador
+  * Becado: 1994-12-18
+  * Ahijados: No
+---
+- **Punkiblank** - Fundador  
+  * Becado: 1994-11-18  
+  * Ahijados: No
+---
+- **Lo Mismo** - Fundador
+  * Becado: 1994-11-18
+  * Ahijados:
+      - **Nacho**
+        *  Becado: ???
+        *  Ahijados: No
+---
 
-      - mote: 
+- **Nazareno**  (Pink Floyd = Pinfl) - Fundador
+  * Becado: 1994-11-18
+  * Ahijados: FidoX, Casper, Obelix, Playback
+  ---
 
-  - mote: Fosforito
-    fundador: true
-    becado: 1994-11-18
-    ahijados:
+    - **FidoX**
+      * Becado: 2000
+      * Ahijados: No
+      ---
+    - **Casper**
+      * Becado: ???
+      * Ahijados: Cafeolé, 
+      ---
 
-      - mote: 
+         - **Cafeolé**
+            * Becado: 
+            * Ahijados: No 
+            ---
 
-  - mote: Inyectable
-    fundador: true
-    becado: 1994-11-18
-    ahijados:
+         - **Pocahontas**
+            * Becado: ???
+            * Ahijados:
+            ---
+              - **Iniesta**
+                  * Becado: 2014-06-19
+                  * Ahijados:
+                  ---
 
-      - mote: 
+                  - **Golosina**
+                      * Becado: 2017-11-25
+                      * Ahijados: No
+                      ---
 
-  - mote: Lo mismo
-    fundador: true
-    becado: 1994-11-18
-    ahijados:
+     - **Obelix**
+         * Becado: 2014-06-19
+         * Ahijados: No
+         ---
 
-      - mote: 
+     - **Playback**(Elegido)
+         * Becado: 2018-12-22
+         * Ahijados: No
+---
 
-  - mote: Nazareno (Pinfli)
-    fundador: true
-    becado: 1994-11-18
-    ahijados:
 
-      - mote: FidoX
-        becado: null
 
-      - mote: Cásper
-        becado: null
-        ahijados: 
+- **Elena** (Tintin) - Fundador
+  * Becado: 1994-11-18
+  * Ahijados: FidoX, Casper, Obelix, Playback
+  ---
 
-           - mote: Pocahontas
-             becado: null
-             ahijados:
+    - **Achaman**
+      * Becado: 2000-10-XX
+      * Ahijados: 
+      ---
 
-               - mote: Iniesta
-                 becado: null
-                 ahijados:
+         - **Lequio**
+            * Becado: 2003-05-09
+            * Ahijados:
+---
 
-                  - mote: Golosina
-                    becado: 2017-11-25
-                    ahijados:
 
-      - mote: Santiso
-        becado: null
 
-      - mote: Obelix
-        becado: null
 
-      - mote: Libidinoso
-        fundador: true
-        becado: 1994-12-18
-        ahijados:
+- **Tsunami** - Fundador
+  * Becado: 1994-11-25*
+  * Ahijados: No
+---
 
-      - mote: Playback (Elegido)
-        fundador: false
-        becado: 2018-12-22
-        ahijados:
 
-  - mote: Punkiblank
-    fundador: true
-    becado: 1994-11-18
-    ahijados:
 
-      - mote: 
+- **Urkel** - Fundador
+  * Becado: 1994-11-18
+  * Ahijados:
+  ---
 
-  - mote: Elena (Tintin)
-    fundador: true
-    becado: 1994-11-18
-    ahijados:
-
-      - mote: Achaman
-        becado: null
-        ahijados:
-
-          - mote: Lequio
-            becado: null
-            ahijados:
-
-              - mote: 
-
-  - mote: Tsunami
-    fundador: true
-    becado: 1994-11-18
-    ahijados:
-
-      - mote: 
-
-  - mote: Urkel
-    fundador: true
-    becado: 1994-11-18
-    ahijados:
-
-      - mote: Yo que (Melman)
-        becado: 2010
-        ahijados:
-
-          - mote: Sebastopol (Topol)
-            becado: 
-            ahijados:
-
-            - mote: Luthier
-              becado: 2017-12-25
-              ahijados:
-
-              - mote:
+    - **Yo que** (Melman)
+        * Becado: 2010-01-23
+        * Ahijados:
+              
+            ---  
+            - **Sebastopol** (Topol)
+                * Becado: 2013-02-01
+                * Ahijados:  
+                  
+                  ---
+                   - **Luthier**
+                      * Becado: 2017-12-25
+                      * Ahijados: No
+                      ---
+                  
+                  - **Churrasco**
+                      * Becado: 2019-11-10
+                      * Ahijados: No
+---
  
-            - mote: Pánico:
-              tuna_madre: Farmacia
-              becado: null
-              ahijados:
-
-              - mote:
-       
-
-  - mote: Wally
-    fundador: true
-    becado: 1994-11-18
-    ahijados:
-
-      - mote: 
-
-  - mote: Santos
-    becado: null
-    ahijados:
-
-     - mote: Harry Potas (Hapo)
-       becado: null
-
-     - mote: Petete
-       becado: null
-
-  - mote: Mapache
-    tuna_madre: Derecho
-
-  - Camilo
-    becado: null
-    tuna_madre: Minas de Madrid
-
-  - Elmer:
-    becado: null
-    tuna_madre: farmacia
-
-  - mote: Fitipollas (Fiti)
-    becado: null
-
-  - mote: Boticario
-    beca: null
-
-  - mote: Caballe
-    beca: null
-
-  - mote: Escopeta
-    beca: null
-
-  - mote: Pepollas (Pepo)
-    beca: null
+- **Wally** - Fundador
+  * Becado: 1994-11-18
+  * Ahijados:  
     
-    
-    
-Sintaxis -mote : "Mote de bautizo" ("Como es conocido")
+    ---
+      -  **Boticario**
+          * Becado: ???
+          * Ahijados: No
+          ---
+
+      -  **Lemming**
+          * Becado: ???
+          * Ahijados:  
+           
+            ---
+
+              - **Missing**
+                  * Becado: 2003-05-03
+                  * Ahijados: No
+                  ---
+              
+              - **Pepollas** (Pepo)
+                  * Becado: 2002 ???
+                  * Ahijados: No
+                  ---
+
+              -  **Fitipollas** (Fiti)
+                  * Becado: 2011-09-17
+                  * Ahijados: Maldición
+---
+
+- **Escopeta**
+  * Becado: null
+
+---
+- **Santos**
+  * Becado: null
+  * Ahijados:
+      
+      - **Harry Potas** (Hapo)
+          * Becado: 2003-05-09
+          * Ahijados: No
+          ---
+      - **Petete**
+          * Becado: ???
+
+---
+- **Mapache**
+  * Becado: 
+  * Tuna Madre: Tuna de Derecho de La Universidad de La Laguna
+---
+- **Camilo**
+  * Becado: null
+  * Tuna Madre: Minas de Madrid
+---
+- **La Caballé** (Caballé)
+  * Becado: null
+  * Tuna Madre: Tuna de Farmacia de La Universidad de La Laguna
+---
+- **Muñones**
+  * Becado: 2003-05-09
+  * Tuna Madre: ??
+---
+- **Elmer**
+  * Becado: ???
+  * Tuna Madre: Tuna de Farmacia de La Universidad de La Laguna
+---
+- **Pánico**
+  * Becado: ???
+  * Tuna Madre: Tuna de Farmacia de La Universidad de La Laguna
+---
+
+
+
