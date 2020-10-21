@@ -20,13 +20,22 @@
   * Becado: 1994-11-18  
   * Ahijados: No
 ---
+- **Tsunami** - Fundador
+  * Becado: 1994-11-25*
+  * Ahijados: No
+---
+
 - **Lo Mismo** - Fundador
   * Becado: 1994-11-18
-  * Ahijados:
+  * Ahijados: Nacho? 
+    
+    ---
+
       - **Nacho**
         *  Becado: ???
         *  Ahijados: No
 ---
+
 
 - **Nazareno**  (Pink Floyd = Pinfl) - Fundador
   * Becado: 1994-11-18
@@ -43,17 +52,17 @@
       ---
 
          - **Cafeolé**
-            * Becado: 
+            * Becado: ???
             * Ahijados: No 
             ---
 
          - **Pocahontas**
             * Becado: ???
-            * Ahijados:
+            * Ahijados: Iniesta
             ---
               - **Iniesta**
                   * Becado: 2014-06-19
-                  * Ahijados:
+                  * Ahijados: Golosina
                   ---
 
                   - **Golosina**
@@ -75,42 +84,35 @@
 
 - **Elena** (Tintin) - Fundador
   * Becado: 1994-11-18
-  * Ahijados: FidoX, Casper, Obelix, Playback
+  * Ahijados: Achamán
   ---
 
-    - **Achaman**
+    - **Achamán**
       * Becado: 2000-10-XX
-      * Ahijados: 
+      * Ahijados: Lequio 
       ---
 
          - **Lequio**
             * Becado: 2003-05-09
-            * Ahijados:
+            * Ahijados: No
 ---
 
-
-
-
-- **Tsunami** - Fundador
-  * Becado: 1994-11-25*
-  * Ahijados: No
----
 
 
 
 - **Urkel** - Fundador
   * Becado: 1994-11-18
-  * Ahijados:
+  * Ahijados: Yo que
   ---
 
     - **Yo que** (Melman)
         * Becado: 2010-01-23
-        * Ahijados:
+        * Ahijados: Sebastopol
               
             ---  
             - **Sebastopol** (Topol)
                 * Becado: 2013-02-01
-                * Ahijados:  
+                * Ahijados: Luthier, Churrasco
                   
                   ---
                    - **Luthier**
@@ -125,7 +127,7 @@
  
 - **Wally** - Fundador
   * Becado: 1994-11-18
-  * Ahijados:  
+  * Ahijados: Boticario, Lemming
     
     ---
       -  **Boticario**
@@ -135,7 +137,7 @@
 
       -  **Lemming**
           * Becado: ???
-          * Ahijados:  
+          * Ahijados: Missing, Pepollas, Fitipollas
            
             ---
 
@@ -151,7 +153,7 @@
 
               -  **Fitipollas** (Fiti)
                   * Becado: 2011-09-17
-                  * Ahijados: Maldición
+                  * Ahijados: (Maldición Activa)
 ---
 
 - **Escopeta**
@@ -160,7 +162,8 @@
 ---
 - **Santos**
   * Becado: null
-  * Ahijados:
+  *  Tuna Madre: Tuna de Agricolas de La Universidad de La Laguna
+  * Ahijados: Harry Pottas, Petete
       
       - **Harry Potas** (Hapo)
           * Becado: 2003-05-09
