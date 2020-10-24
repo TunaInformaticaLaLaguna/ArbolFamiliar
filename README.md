@@ -13,7 +13,7 @@
   * Ahijados: No
 ---
 - **Libinidoso** - Fundador
-  * Becado: 1994-12-18
+  * Becado: 1994-11-25*
   * Ahijados: No
 ---
 - **Punkiblank** - Fundador  
@@ -21,7 +21,7 @@
   * Ahijados: No
 ---
 - **Tsunami** - Fundador
-  * Becado: 1994-11-25*
+  * Becado: 1994-11-18
   * Ahijados: Escopeta
   ---
     - **Escopeta**
@@ -31,22 +31,22 @@
 
 - **Lo Mismo** - Fundador
   * Becado: 1994-11-18
-  * Ahijados: Nacho? 
+  * Ahijados: Fugitivo
     
     ---
 
-      - **Nacho**
+      - **Fugitivo**
         *  Becado: ???
         *  Ahijados: No
 ---
 
 
-- **Nazareno**  (Pink Floyd = Pinfly) - Fundador
+- **Nazareno**  (Pinfly) - Fundador
   * Becado: 1994-11-18
   * Ahijados: FidoX, Casper, Obelix, Playback
   ---
 
-    - **FidoX**
+    - **Fido**
       * Becado: 2000
       * Ahijados: No
       ---
@@ -86,7 +86,7 @@
 
 
 
-- **Elena** (Tintin) - Fundador
+- **Tintin** (Elena) - Fundador
   * Becado: 1994-11-18
   * Ahijados: Achamán
   ---
@@ -129,7 +129,7 @@
                       * Ahijados: No
 ---
  
-- **Wally** - Fundador
+- **ElementoSorpresa**(Wally) - Fundador
   * Becado: 1994-11-18
   * Ahijados: Boticario, Lemming
     
@@ -160,7 +160,7 @@
                   * Ahijados: (Maldición Activa)
 
 ---
-- **Santos**
+- **Bragaman** (Santos)
   * Becado: null
   *  Tuna Madre: Tuna de Agricolas de La Universidad de La Laguna
   * Ahijados: Harry Pottas, Petete
@@ -180,13 +180,17 @@
 ---
 - **Camilo**
   * Becado: null
-  * Tuna Madre: Minas de Madrid
+  * Tuna Madre: Tuna Minas de Madrid
 ---
-- **La Caballé** (Caballé)
+- **Acelerado** (Neto)
+  * Becado: null
+  * Tuna Madre: Tuna de Filología de La Universidad de La Laguna
+---
+- **La Caballé** 
   * Becado: null
   * Tuna Madre: Tuna de Farmacia de La Universidad de La Laguna
 ---
-- **Muñones**
+- **Marea Roja** (Muñones)
   * Becado: 2003-05-09
   * Tuna Madre: Tuna de Agricolas de La Universidad de La Laguna
 ---
