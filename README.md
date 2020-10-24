@@ -41,7 +41,7 @@
 ---
 
 
-- **Nazareno**  (Pinfly) - Fundador
+- **Nazareno**  (Pinfli) - Fundador
   * Becado: 1994-11-18
   * Ahijados: FidoX, Casper, Obelix, Playback
   ---
